@@ -1,0 +1,75 @@
+# gradle
+.gradle/
+build/
+out/
+classes/
+.architectury-transformer/
+
+# eclipse
+*.launch
+
+# idea
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+*.DS_Store
+
+# fabric
+run/
+
+# java
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+# AI Assistants — local config, memory, index
+.codegraph/
+.agents/
+.agent-memory/
+.qoder/
+.kilo/
+.kilocode/
+.roo/
+.continue/
+.trae/
+.aider*
+.opencode/
+.openhands/
+openhands/
+.codex/
+.claude/
+.cursor/
+.gemini/
+.windsurf/
+.zed/
+.mcp/
+.mcp.json
+opencode.json
+opencode.jsonc
+.opencode.json
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+QODER.md
+.cursorrules
+.cursorignore
+.github/copilot-instructions.md
+copilot-instructions.md
+
+# Generated runtime output
+logs/
+
+# Docs & notes
+docs/
+.kotlin/

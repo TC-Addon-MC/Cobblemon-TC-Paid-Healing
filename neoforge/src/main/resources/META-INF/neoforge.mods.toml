@@ -1,0 +1,40 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="MIT"
+issueTrackerURL="https://github.com/"
+
+[[mods]]
+    modId="cobblemon_tc_paid_healing"
+    version="${version}"
+    displayName="Cobblemon TC Paid Healing"
+    description="Charges a fee after the Cobblemon Healing Machine heals your party. Uses CobbleDollars when available, otherwise a configurable item."
+    authors="Toan Cao"
+    displayURL="https://www.curseforge.com/minecraft/mc-mods/cobblemon"
+    logoFile="assets/cobblemon_tc_paid_healing/icon.png"
+
+[[mixins]]
+    config="cobblemon_tc_paid_healing.mixins.json"
+
+[[mixins]]
+    config="cobblemon_tc_paid_healing.client.mixins.json"
+
+[[dependencies.cobblemon_tc_paid_healing]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21,1.22)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.cobblemon_tc_paid_healing]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.cobblemon_tc_paid_healing]]
+    modId="cobblemon"
+    type="required"
+    versionRange="[1.8.0,)"
+    ordering="AFTER"
+    side="BOTH"

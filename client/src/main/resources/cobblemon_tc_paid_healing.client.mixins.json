@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "refmap": "cobblemon_tc_paid_healing-client-refmap.json",
+  "minVersion": "0.8",
+  "package": "com.toancao.tcpaidhealing.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": ["LevelRendererMixin", "GuiMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

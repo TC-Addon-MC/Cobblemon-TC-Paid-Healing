@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "com/toancao/tcpaidhealing/mixin/HealingMachineBlockMixin": {
+      "useWithoutItem": "Lcom/cobblemon/mod/common/block/HealingMachineBlock;method_55766(Lnet/minecraft/class_2680;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_1657;Lnet/minecraft/class_3965;)Lnet/minecraft/class_1269;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/toancao/tcpaidhealing/mixin/HealingMachineBlockMixin": {
+        "useWithoutItem": "Lcom/cobblemon/mod/common/block/HealingMachineBlock;method_55766(Lnet/minecraft/class_2680;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_1657;Lnet/minecraft/class_3965;)Lnet/minecraft/class_1269;"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "cobblemon_tc_paid_healing.charge.done": "Paid %s to heal %s Pokémon.",
+  "cobblemon_tc_paid_healing.error.insufficient": "Not enough money: need %s, you have %s.",
+  "cobblemon_tc_paid_healing.error.invalid_item": "Currency item %s is not valid; healing is free.",
+  "cobblemon_tc_paid_healing.currency.cobble_dollars": "CobbleDollars",
+  "cobblemon_tc_paid_healing.config.costPerPokemon": "Cost per Pokémon",
+  "cobblemon_tc_paid_healing.config.currencyMode": "Currency mode (AUTO, COBBLEDOLLARS, ITEM)",
+  "cobblemon_tc_paid_healing.config.currencyItem": "Currency item ID",
+  "cobblemon_tc_paid_healing.config.chargePcPokemon": "Charge Pokémon in PC",
+  "cobblemon_tc_paid_healing.config.freeForCreative": "Free for creative players",
+  "cobblemon_tc_paid_healing.config.enabled": "Enable paid healing"
+}

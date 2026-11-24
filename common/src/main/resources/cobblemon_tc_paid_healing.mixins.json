@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "refmap": "cobblemon_tc_paid_healing-refmap.json",
+  "minVersion": "0.8",
+  "package": "com.toancao.tcpaidhealing.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["HealingMachineBlockEntityMixin", "HealingMachineBlockEntityAccess", "HealingMachineBlockMixin"],
+  "client": [],
+  "injectors": { "defaultRequire": 1 }
+}

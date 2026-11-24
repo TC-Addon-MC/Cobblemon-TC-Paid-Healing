@@ -1,0 +1,12 @@
+{
+  "cobblemon_tc_paid_healing.charge.done": "Đã trừ %s để hồi máu %s Pokémon.",
+  "cobblemon_tc_paid_healing.error.insufficient": "Không đủ tiền: cần %s, bạn có %s.",
+  "cobblemon_tc_paid_healing.error.invalid_item": "Item tiền %s không hợp lệ; hồi máu miễn phí.",
+  "cobblemon_tc_paid_healing.currency.cobble_dollars": "CobbleDollars",
+  "cobblemon_tc_paid_healing.config.costPerPokemon": "Giá cho mỗi Pokémon",
+  "cobblemon_tc_paid_healing.config.currencyMode": "Chế độ tiền (AUTO, COBBLEDOLLARS, ITEM)",
+  "cobblemon_tc_paid_healing.config.currencyItem": "ID item làm tiền",
+  "cobblemon_tc_paid_healing.config.chargePcPokemon": "Tính cả Pokémon trong PC",
+  "cobblemon_tc_paid_healing.config.freeForCreative": "Miễn phí cho người chơi Creative",
+  "cobblemon_tc_paid_healing.config.enabled": "Bật thu phí hồi máu"
+}
